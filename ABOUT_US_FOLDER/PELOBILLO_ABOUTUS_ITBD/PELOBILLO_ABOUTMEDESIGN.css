@@ -1,0 +1,100 @@
+body{
+	background-color:#eaeaea;
+	color:black;
+}
+
+.header{
+		color:#231F20;
+		font-size:3em;
+		text-transform:uppercase;
+		padding-top:20px;
+}
+.subheader{
+		color:#231F20;
+		font-size:1.5em;
+		text-transform:uppercase;
+		padding-top:10px;
+}
+.footer{
+		background-color:#181510;
+		color:white
+}
+
+.margin{
+		margin-right:10em;
+		margin-left:10em;
+}
+.pagemargin{
+		margin-right:20em;
+		margin-left:20em;
+}
+
+.links{
+		text-align:center;
+		color:#231F20;
+		font-size:1.2em;
+}
+
+.banner{
+		text-align:center;
+		width:200px;
+		background-color:#EAEAEA;
+}
+.logo{
+	float:left;
+	width:250px;
+}
+.sublogo{
+	float:left;
+	width:150px;	
+}
+.subtitle{
+		color:#AD974F;
+		font-size:3em;
+		text-transform:uppercase;
+
+}
+.subtitlecontent{
+		text-align:justify;
+		padding-left:100px;
+		padding-right:100px;
+}
+.subtitlecontentmedia{
+		text-align:center;
+		padding-left:100px;
+		padding-right:100px;
+}
+
+.resumeheader{
+		text-align:center;
+}
+.leftimage{
+		width:50px;	
+}	
+.subimage1{
+		width:400px;
+		padding-right:50px;
+}
+.subimage2{
+		width:400px;
+		padding-left:50px;
+}
+
+
+
+
+a:link{
+	Color:#AD974F;
+}
+a:focus{	
+	Color:white;
+}
+a:hover{	
+	Color:white;
+}
+a:hover{	
+	Color:white;
+}
+a:visited{
+	Color:#AD974F;
+}

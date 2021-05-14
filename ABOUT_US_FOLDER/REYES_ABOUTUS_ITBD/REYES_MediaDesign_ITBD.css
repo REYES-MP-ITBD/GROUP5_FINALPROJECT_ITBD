@@ -1,0 +1,122 @@
+#music {
+	background-color:#ffc7e3;
+}
+	
+#film {
+	background-color:#ffc7e3;
+}	
+
+h1.film {
+	background-color:#000024;
+	color:#FFFFFF;
+	font-family:'Zilla Slab', Serif;
+	font-size:4.5em;
+	text-align:center;
+	word-spacing:10px;
+	text-shadow:7px 7px 5px #000000;
+	text-transform:uppercase;
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:25px;
+}
+
+h1.music {
+	background-color:#000024;
+	color:#FFFFFF;
+	font-family:'Zilla Slab', Serif;
+	font-size:4.5em;
+	text-align:center;
+	word-spacing:10px;
+	text-shadow:7px 7px 5px #000000;
+	text-transform:uppercase;
+	padding:5px;
+	margin-top:5px;
+	margin-bottom:25px;
+}
+
+.menu {
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.tv_series > div, .movies > div {
+	background-color:#FFFFFF;
+	padding:15px;
+	border: 3px solid #000000;
+	margin:20px;
+}
+
+.menu .category { 
+	background-color:#000000;
+	color:#FFFFFF;
+	font-family:"Cormorant Unicase", Georgia, Serif;
+	font-size:40px;
+	text-align:center;
+	padding:5px;
+}
+
+.title {
+	font-family:Abel, Georgia, Serif;
+	text-transform:uppercase;
+	font-size:32px;
+	text-align:center;
+	letter-spacing:2px;
+}
+
+.song {
+	padding:5px;
+	
+}
+
+.rnb, .pop_rock, .kpop {
+	display:flex;
+	justify-content:space-evenly;
+	background-color:#594f4f;
+	padding:5px;
+	border:3px dotted #000000;
+	margin:5px;
+}
+
+#songs {
+	padding:15px;
+}
+h2 {
+	font-family:Bitter, Georgia, Serif;
+	font-size:34px;
+}
+
+#song_title {
+	font-family:Abel, Verdana, 'Sans Serif';
+	font-size:1.5em;
+	font-weight:bold;
+	color:#ffffff;
+}
+
+p {
+	font-family:Abel, Verdana, 'Sans Serif';
+	font-size:1.25em;
+	text-align:center;
+	color:#ffffff;
+}
+
+a {
+	font-family:Abel, Verdana, 'Sans Serif';
+	font-size:1.5em;
+	text-indent:50px;
+}
+
+a:link {
+	color:#000000;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#000000;
+	text-decoration:none;
+}
+
+a:hover {
+	background-color:black;
+	color:#ffffff;
+	text-decoration:none;
+}

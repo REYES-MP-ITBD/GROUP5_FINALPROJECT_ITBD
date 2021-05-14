@@ -1,0 +1,95 @@
+body{
+	margin: 0px;
+    color: block;
+    font-size: 1.25em;
+    font-family:verdana;
+    background-color: #eedfcc;
+}
+
+a.a{
+  text-decoration: none;
+  font-weight: bold;
+  font-style: oblique;
+  position: relative;
+  left: 150px;
+  margin-left:0px;
+  padding: 1px 20px;
+  text-decoration: none;
+  transition: 0.6 #dbdbdb;
+  color: #700000;
+}
+a:hover{
+    background-color: #8f8f8f;
+    color: #000;
+}
+a.logo{
+  float: left;
+  margin-top: -40px;
+}
+hr{
+	size:3px;
+	width: 90%;
+}
+div{
+	text-align: center;
+}
+    .header{
+      background-color: #ffffff;
+      margin: auto;
+      padding: 40px;
+      border: 1.5px solid;
+      border-radius: 30px;
+
+    }
+
+
+a.More2 {
+  text-decoration: none;
+  font-weight: bold;
+  font-style: oblique;
+  position: relative;
+  padding: 1px 1px;
+  text-decoration: none;
+  transition: 0.6 #dbdbdb;
+  color: #700000;
+}
+
+a:hover{
+    background-color: #8f8f8f;
+    color: #000;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.column 
+{
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 500px;
+  margin-left: 15%;
+  margin-right: -15px;
+  margin-top: 5%;
+}
+.pic{
+	width:60%;
+	height:50%;
+	opacity: 0.75; 
+}
+.pic:hover{
+  opacity: 1;
+}
+
+#navigation2 {
+    font-size: 24px;
+    text-align: center;
+    text-indent: 80px;
+    font-family: 'Architects Daughter', 'Bookman Old Style', Georgia, Serif;
+    background-color: #bf8015;
+    padding: .25em;
+}
+
+

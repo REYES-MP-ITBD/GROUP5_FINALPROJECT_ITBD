@@ -1,0 +1,140 @@
+body {
+	background-color:#ffc7e3;
+	color:#000024;
+	font-family:'Maven Pro', Helvetica, Sans Serif;
+}
+
+h1 { 
+	background-color:#000024;
+	color:#ffffff;
+	font-family:'Zilla Slab', Serif;
+	font-size:4em;
+	text-align:center;
+	word-spacing:10px;
+	text-shadow:5px 5px 5px #545759;
+	text-transform:uppercase;
+	padding:5px;
+	margin:10px;
+}
+
+h2 {
+	font-family:Abel, 'Arial Black', Serif;
+	font-style:oblique;
+	letter-spacing:3px;
+}
+
+p {
+	text-align:justify;
+	font-size:1.25em;
+	text-indent:70px;
+	line-height:25px;
+	word-spacing:3px;
+}
+
+td {
+	width:150px;
+	padding:5px;
+}
+
+.line1 {
+	display:flex;
+	align-items:center;
+	justify-content:space-evenly;
+	margin:20px;
+}
+
+.line2 {
+	display:flex;
+	align-items:center;
+	justify-content:space-evenly;
+	margin:20px;
+}
+
+#family, #cousins {
+	width:340px;
+	height:250px;
+}
+
+#airplane {
+	width:300px;
+	height:300px;
+}
+
+#subic, #hongkong {
+	width:300px;
+	height:450px	
+}
+
+#grade7, #momshies {
+	width:340px;
+	height:250px;
+}
+
+#citymeet16, #slcuaa, #swimming {
+	width:300px;
+	height:300px;
+}
+
+#christmasparty, #wawawen, #batangas {
+	width:400px;
+	height:300px;
+}
+
+#uaap, #prima {
+	width:350px;
+	height:250px;
+}
+
+.opening {
+	display:flex;
+	align-items:center;
+	justify-content:space-evenly;
+}
+
+#little-girl, #lady, #woman {
+	width:200px;
+	height:200px;
+}
+
+a:link {
+	font-family:'Maven Pro', Helvetica, Sans Serif;
+	font-size:1.25em;
+	color:#000000;
+	text-decoration:none;
+}
+
+a:visited {
+	font-family:'Maven Pro', Helvetica, Sans Serif;
+	font-size:1.25em;
+	color:#000000;
+	text-decoration:none;
+}
+
+a:hover {
+	font-family:'Maven Pro', Helvetica, Sans Serif;
+	font-size:1.25em;
+	background-color:black;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+img.navbar1, img.navbar2, img.navbar3 {
+	opacity:0.75;
+	border:10px dotted black;
+}
+
+img:hover.navbar1 {
+	opacity:1;
+	border:10px solid black;
+}
+
+img:hover.navbar2 {
+	opacity:1;
+	border:10px solid black;
+}
+
+img:hover.navbar3 {
+	opacity:1;
+	border:10px solid black;
+}
+

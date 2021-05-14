@@ -1,0 +1,43 @@
+body {
+	background-color:;
+}
+
+h1 {
+	font-family:"Dancing Script", Georgia, Serif;
+	font-size:125px;
+	text-align:center;
+	margin-top:0;
+	margin-bottom:20px;
+}
+
+.country {
+	font-family:"Cormorant Unicase", Georgia, Serif;
+}
+
+blockquote > p {
+	font-family:'Open Sans Condensed', Abel, Tahoma, 'Sans Serif';
+	font-size:24px;
+	text-align:justify;
+	text-indent:70px;
+	letter-spacing:2px;
+}
+
+.frontpic {
+	
+}
+
+.scenery1 {
+	
+}
+
+.scenery2 {
+	
+}
+
+.otherplace1 {
+	
+}
+
+.otherplace2 {
+	
+}

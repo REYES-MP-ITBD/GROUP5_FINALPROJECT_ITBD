@@ -1,0 +1,141 @@
+body{
+	margin: 0px;
+    color: block;
+    font-size: 1.25em;
+    font-family:verdana;
+    background-color: #eedfcc;
+}
+a.a{
+  text-decoration: none;
+  font-weight: bold;
+  font-style: oblique;
+  position: relative;
+  left: 150px;
+  margin-left:0px;
+  padding: 1px 20px;
+  text-decoration: none;
+  transition: 0.6 #dbdbdb;
+  color: #700000;
+}
+a:hover{
+    background-color: #8f8f8f;
+    color: #000;
+}
+a.logo{
+  float: left;
+  margin-top: -40px;
+}
+hr{
+	size:3px;
+	width: 90%;
+}
+div{
+	text-align: center;
+}
+    .header{
+      background-color: #ffffff;
+      margin: auto;
+      padding: 40px;
+      border: 1.5px solid;
+      border-radius: 30px;
+
+    }
+
+.heading{
+	color: red;
+	position: absolute;
+	top:50%;
+	width: 100%;
+	text-align: center;
+	font-size: 3rem;
+	text-shadow: 5px 5px 10px #000000;
+}
+
+
+a.More2 {
+  text-decoration: none;
+  font-weight: bold;
+  font-style: oblique;
+  position: relative;
+  padding: 1px 1px;
+  text-decoration: none;
+  transition: 0.6 #dbdbdb;
+  color: #700000;
+}
+
+a:hover{
+    background-color: #8f8f8f;
+    color: #000;
+}
+
+
+h1{
+  text-align: center;
+  font-family: serif;
+  font-size: 4em;s
+text-decoration-color:#700000 ;
+  color: lime;
+  text-transform: uppercase;
+  word-spacing: 20px;
+  text-shadow: 5px 5px black;
+
+}
+img.pic{
+  border-radius: 200px;
+  height: 250px;
+  width: 250px;
+margin: auto;
+}
+table{ 
+    border: 1.5px solid; 
+    width:100%;
+    border-radius: 100px;
+    box-shadow: 30px;
+
+ }
+ table.table1{
+    background-color:#ffffff;
+    color-adjust:ecomy;
+}
+table.table2{
+    background-color:#ffffff;
+}
+h2{
+    font-family: Georgia;
+    text-align:center;
+    font-style: oblique;
+    word-spacing: 20px;
+    text-shadow: 5px 5px #f3971b;
+    color: black;
+}
+p{
+    color: black;
+}
+
+
+a img.left{
+  height: 350px;
+  width: 300px;
+  float: left;
+  padding: 20px;
+  opacity: 0.75;
+  border-radius: 40px;
+}
+
+a img.left:hover{
+  opacity: 1;
+}
+
+
+
+
+#navigation2 {
+    font-size: 24px;
+    text-align: center;
+    text-indent: 80px;
+    font-family: 'Architects Daughter', 'Bookman Old Style', Georgia, Serif;
+    background-color: #bf8015;
+    padding: .25em;
+}
+
+

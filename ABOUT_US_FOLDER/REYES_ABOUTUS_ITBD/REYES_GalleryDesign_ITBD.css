@@ -1,0 +1,255 @@
+body {
+	background-color:#21e6c1;
+	margin:10px;
+}
+
+.menu {
+	display:flex;	
+	justify-content:space-between;
+	align-items:center;
+}
+
+h2 {
+	background-color:#071e3d;
+	text-align:center;
+	padding:25px;
+	margin-top:0;
+}
+
+h3 {
+	background-color:#071e3d;
+	color:white;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Bitter, "Bookman Old Style", Serif;
+	font-size:40px;
+	letter-spacing:5px;
+	padding:10px;
+	margin-top:0;
+	margin-bottom:15px;
+}
+
+h4 {
+	text-align:center;
+}
+
+.verticaltext {
+	background-color:white;
+	color:black;
+	width:35px;
+	word-wrap: break-word;
+	font-family: Bitter, Georgia, Serif;
+	font-size:35px;
+	text-align:center;
+	margin-left:50px;
+}
+
+.verticaltext2 {
+	background-color:white;
+	color:black;
+	width:35px;
+	word-wrap: break-word;
+	font-family: Bitter, Georgia, Serif;
+	font-size:35px;
+	text-align:center;
+	margin-right:50px;
+}
+
+img.logo {
+	width:300px;
+	height:300px;
+	border:15px ridge black;
+	margin-top:5px;;
+}
+			
+a:link.category {
+	text-decoration:none;
+	color:white;
+	font-family: "Cormorant unicase", Georgia, Serif;
+	font-size:30px;
+}
+		
+a:visited.category {
+	text-decoration:none;
+	color:white;
+	font-family: "Cormorant unicase", Georgia, Serif;
+	font-size:30px;
+}
+		
+a:hover.category {
+	text-decoration:none;
+	background-color:white;
+	color:black;
+	font-family: "Cormorant unicase", Georgia, Serif;
+	font-size:20px;
+	padding:28px;
+	border: 5px double #000024;
+}
+
+a:link.back {
+	text-decoration:none;
+	font-family:Abel, Verdana, "Sans Serif";
+	font-size:24px;
+	color:black;
+	margin-left:15px;
+}
+
+a:visited.back {
+	text-decoration:none;
+	font-family:Abel, Verdana, "Sans Serif";
+	font-size:24px;
+	color:black;
+	margin-left:15px;
+}
+
+a:hover.back {
+	text-decoration:none;
+	font-family:Abel, Verdana, "Sans Serif";
+	font-size:24px;
+	background-color:black;
+	color:white;
+	padding:10px;
+	margin-left:15px;
+}
+
+.fam-row1 , .fam-row2 {
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+	
+.fam-row1 > img {
+	width:300px;
+	height:250px;
+}
+		
+.fam-row2 > img {
+	width:200px;
+	height:300px;
+}
+
+.selfies-row1, .selfies-row2 {
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+		
+.selfies-row1 > img {
+	width:300px;
+	height:250px;
+}
+		
+.selfies-row2 > img {
+	width:200px;
+	height:300px;
+}
+
+.friends-row1, .friends-row2 {
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+		
+.friends-row1 > img {
+	width:300px;
+	height:250px;
+}
+		
+.friends-row2 > img {
+	width:200px;
+	height:300px;
+}
+
+.hsteammates-row1, .hsteammates-row2 {
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+
+.hsteammates-row1 > img {
+	width:300px;
+	height:250px;
+}
+		
+.hsteammates-row2 > img {
+	width:300px;
+	height:300px;
+}
+
+.collegeteammates-row1, .collegeteammates-row2 {
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+}
+
+.collegeteammates-row1 > img {
+	width:300px;
+	height:250px;
+}
+		
+.collegeteammates-row2 > img {
+	width:200px;
+	height:300px;
+}
+
+.family img {
+	background-color:white;
+	padding: 5px;
+	border:3px solid black;
+	margin:5px;
+}
+
+.selfies img {
+	background-color:white;
+	padding: 5px;
+	border:3px solid black;
+	margin:5px;
+}
+
+.hsfriends img {
+	background-color:white;
+	padding: 5px;
+	border:3px solid black;
+	margin:5px;
+}
+
+.hsteammates img {
+	background-color:white;
+	padding: 5px;
+	border:3px solid black;
+	margin:5px;
+}
+
+.collegeteammates img {
+	background-color:white;
+	padding: 5px;
+	border:3px solid black;
+	margin:5px;
+}
+
+.intro {
+	background-color:black;
+	width:700px;
+	height:475px;
+	padding:5px;
+	border:5px solid white;
+	margin-top:0;
+}
+
+blockquote > p { 
+	text-indent:20px;
+	text-align:justify;
+	font-family:Abel, Tahoma, "Sans Serif";
+	font-size:37px;
+	color:white;
+}
+
+div > div.menu { 
+	margin-top:0;
+}
+
+.family, .selfies, .hsfriends, .hsteammates, .collegeteammates {
+	background-color:#ffc7e3;
+	padding:20px;
+	border: 3px solid black;
+}	
